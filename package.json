@@ -41,7 +41,7 @@
     "async-retry": "^1.2.3",
     "chalk": "^2.4.2",
     "cli-progress": "^3.8.2",
-    "dockerode": "^3.3.5",
+    "dockerode": "^4.0.5",
     "dotenv": "^8.2.0",
     "ethers": "6.3.0",
     "figlet": "^1.2.3",
@@ -60,7 +60,7 @@
     "rimraf": "^3.0.2",
     "semver": "^7.6.0",
     "source-map-support": "^0.5.19",
-    "tar-fs": "^2.0.0",
+    "tar-fs": "^2.1.4",
     "timestring": "^5.0.1",
     "yargs": "^17.7.1"
   },
